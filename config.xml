@@ -16,8 +16,8 @@
     <author href="http://leocondori.com.ar" email="contacto@leocondori.com.ar">
         Leo Condorí 
     </author>
-  <icon src="icon.png" />
-	<gap:splash src="logo_splash.png" gap:platform="blackberry" />
+  	<icon src="http://www.leocondori.com.ar/img/icon.png" />
+	<gap:splash src="http://www.leocondori.com.ar/img/logo_splash.png" gap:platform="blackberry" />
 	
 	
 </widget>
